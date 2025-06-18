@@ -7,6 +7,7 @@ lolo@tuwaiq.edu.com
 lolo123
 
 instructor:
-sa123123
 instructor@mail.com
+sa123123
+
 
